@@ -2,7 +2,7 @@
 
 **`Desenvolvedor | Analista de Dados`**
 
-Me chamo Enrico Fernandes Siqueira, tenho 20 anos. Concluí o ensino médio na Fito, com o curso técnico em informática. Atualmente, estou cursando **[seu curso]** na **[sua faculdade]**.
+Me chamo Enrico Fernandes Siqueira, tenho 20 anos. Concluí o ensino médio na Fito, com o curso técnico em Informática para Internet. Atualmente, estou cursando Curso Superior de Tecnologia em Banco de Dados na Faculdade Impacta.
 
 <p align="left">
     <a href="https://github.com/SmileDfs?tab=repositories&sort=stargazers">
